@@ -3,4 +3,7 @@
  integers,strings,e.t.c. I will explain with an example """
 
 class Item:
+    """So, to properly explain classes, one must fully understand how clssses
+    are created. example such as integers, floats and strings
+     a class is """
     pass
