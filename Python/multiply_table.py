@@ -1,3 +1,8 @@
+
+"""
+This is a multiplication table which allows the user to input a number 
+and the algorithm outputs a multiplcation table
+"""
 num = int(input('Enter a number: '))
 int_num = 0
 while int_num <=12:
